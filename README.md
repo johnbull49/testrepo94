@@ -1,2 +1,2 @@
 # testrepo94
-creating testrepo94 for demo use
+used in march 1994
